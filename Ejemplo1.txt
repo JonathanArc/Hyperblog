@@ -4,4 +4,6 @@ de uso del
 
 GitHub
 
-ejemplo cambio 2
+ejemplo cambio solo modifico este archivo el otro debe decir
+
+2 y el otro debe estar en rojo
